@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thanchi-tr
+- 👋 Hi, I’m Xuan Trinh - JUNE -  @thanchi-tr
 - 👀 I’m interested in Code, Trading, Cooking
 - 🌱 I’m currently learning A new Topic every week, I am A Dedicated life long learner
 - 💞️ I’m looking to collaborate on Private project for Jung Talents
