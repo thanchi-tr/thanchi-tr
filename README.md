@@ -32,22 +32,24 @@ Auth0, Docker, Redis, Serilog, AWS,
 # Experience:
 <img src="https://raw.githubusercontent.com/thanchi-tr/june-portfolio/main/public/icons/jungTalent.jpg" alt="Jung Talents logo" width="200"/>
 
-## FullStack Engineer @Jung Talents
-Jan 2023 - Current
+## Jung Talents
+### FullStack Engineer
+_Jan 2023 - Current_
 
+---
 ### Achievement:
 
 [PTE master project]
 
-  - Question query: reducing Response times by 35%
-  - Coud infrastructure: optimised config to reduce cost by 25%
+  - Question query: reducing **Response times by 35%**
+  - Coud infrastructure: optimised config to reduce **cost by 25%**
 
 [Carina Eye Care]
-  - Customer Relation: Implement automated appointment reminder which reduced no-show rate by 15%
-
+  - Customer Relation: Implement automated appointment reminder which reduced **no-show rate by 15%
+**
 [Compare n Save]
-  - Search: Optimised SQL indexing, adopting GraphQl to reduce over-fetching by 60%
+  - Search: Optimised SQL indexing, adopting GraphQl to reduce **over-fetching by 60%**
 
 # Future Outlook:
 
-As a life long learner, I want to challenge myself and growth. My morta is "Either You make an aim and move forward or die inside your empty shell". 
+As a life long learner, I want to** challenge myself and growth**. My morta is **"Either You make an aim and move forward or die inside your empty shell"**. 
