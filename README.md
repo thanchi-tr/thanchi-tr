@@ -1,12 +1,53 @@
-- 👋 Hi, I’m Xuan Trinh - JUNE -  @thanchi-tr
-- 👀 I’m interested in Code, Trading, Cooking
-- 🌱 I’m currently learning A new Topic every week, I am A Dedicated life long learner
-- 💞️ I’m looking to collaborate on Private project for Jung Talents
-- 📫 How to reach me web@https://junetrinh.dev email:dev.xuan.trinh@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Trader too.
+# June Trinh (Xuan) Portfolio🌠🌠🌠
+---
 
-<!---
-thanchi-tr/thanchi-tr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Who am I? 💡💡💡
+
+A passionate __*Full-Stack*__ developer, who Build __*Scalable, Modern*__ Application. I dedicate myself to a path of __*Life long learner*__. With A __*Strong*__ Back ground in both Front and Back end, my focus is to deliver a __*seamless user experience*__, at a __*Minimal*__ cost.
+
+---
+
+## Tech-Stack 📚📚 📚
+
+### Front-end:
+
+AngularJs, NextJs, Typescript, React, Motion, SaSS, Tailwind, 
+
+### Back-end:
+
+ASP.NET Core, ExpressJs, Next Server Action, GraphQL, Restful API, SignalR.
+
+### Databases
+
+MsSQL, MYSQL, PostgresSQL, MongoDB
+
+### Tools
+
+Auth0, Docker, Redis, Serilog, AWS,
+
+---
+---
+
+
+# Experience:
+<img src="https://raw.githubusercontent.com/thanchi-tr/june-portfolio/main/public/icons/jungTalent.jpg" alt="Jung Talents logo" width="200"/>
+
+## FullStack Engineer @Jung Talents
+Jan 2023 - Current
+
+### Achievement:
+
+[PTE master project]
+
+  - Question query: reducing Response times by 35%
+  - Coud infrastructure: optimised config to reduce cost by 25%
+
+[Carina Eye Care]
+  - Customer Relation: Implement automated appointment reminder which reduced no-show rate by 15%
+
+[Compare n Save]
+  - Search: Optimised SQL indexing, adopting GraphQl to reduce over-fetching by 60%
+
+# Future Outlook:
+
+As a life long learner, I want to challenge myself and growth. My morta is "Either You make an aim and move forward or die inside your empty shell". 
