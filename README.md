@@ -33,12 +33,11 @@ Auth0, Docker, Redis, Serilog, AWS,
 <img src="https://raw.githubusercontent.com/thanchi-tr/june-portfolio/main/public/icons/jungTalent.jpg" alt="Jung Talents logo" width="200"/>
 
 ## Jung Talents
-### FullStack Engineer
+#### FullStack Engineer (FT)
 _Jan 2023 - Current_
 
-## Jung Talents
-### Backend Engineer (contractor)
-_Jan 2022 - Jan 2023
+#### Backend Engineer (Contract)
+_Jan 2022 - Jan 2023_
 
 ---
 ### Achievement:
