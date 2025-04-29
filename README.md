@@ -11,7 +11,7 @@ A passionate __*Full-Stack*__ developer, who Build __*Scalable, Modern*__ Applic
 
 ### Front-end:
 
-AngularJs, NextJs, Typescript, React, Motion, SaSS, Tailwind, 
+NextJs, AngularJs, Typescript, React, Motion, SaSS, Tailwind, 
 
 ### Back-end:
 
@@ -35,6 +35,10 @@ Auth0, Docker, Redis, Serilog, AWS,
 ## Jung Talents
 ### FullStack Engineer
 _Jan 2023 - Current_
+
+## Jung Talents
+### Backend Engineer (contractor)
+_Jan 2022 - Jan 2023
 
 ---
 ### Achievement:
