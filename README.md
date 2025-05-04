@@ -38,7 +38,6 @@ Ec2, S3, Lambda, Api Gateway.
 
 
 # Experience:
-<img src="https://raw.githubusercontent.com/thanchi-tr/june-portfolio/main/public/icons/jungTalent.jpg" alt="Jung Talents logo" width="200"/>
 
 ## Jung Talents
 #### FullStack Engineer (FT)
