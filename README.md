@@ -3,7 +3,12 @@
 
 ## Who am I? 💡💡💡
 
-A passionate __*Full-Stack*__ developer, who Build __*Scalable, Modern*__ Application. I dedicate myself to a path of __*Life long learner*__. With A __*Strong*__ Back ground in both Front and Back end, my focus is to deliver a __*seamless user experience*__, at a __*Minimal*__ cost.
+A __*Full-Stack*__ developer with __*more than 3 years*__ of experience , building __*high-performance*__ Application using .NET Core
+and Next.js.Expertise in architect __*Scalable Software systems*__ and implementing real-time WebSocket
+communication(SignalR) for seamless user interactions, and CI/CD automation. Passionate about leveraging
+cutting-edge technologies and industry best practices to develop __*efficient, maintainable, and future-proof*__ software
+solutions with an intuitive UI and seamless user experience.
+
 
 ---
 
@@ -11,20 +16,23 @@ A passionate __*Full-Stack*__ developer, who Build __*Scalable, Modern*__ Applic
 
 ### Front-end:
 
-NextJs, AngularJs, Typescript, React, Motion, SaSS, Tailwind, 
+React/Next.JS, Angular(11+), Js/Ts, Motion, TailwindCss, Jest.
 
 ### Back-end:
 
-ASP.NET Core, ExpressJs, Next Server Action, GraphQL, Restful API, SignalR.
+ASP.NET Core, WebAPI, GraphQL, Restful API, SignalR, xUnit.
 
 ### Databases
 
-MsSQL, MYSQL, PostgresSQL, MongoDB
+MsSQL, PostgresSQL, MongoDB, Redis.
 
 ### Tools
 
-Auth0, Docker, Redis, Serilog, AWS,
+Auth0, Docker, Serilog.
 
+### Cloud
+
+Ec2, S3, Lambda, Api Gateway.
 ---
 ---
 
@@ -44,7 +52,7 @@ _Jan 2022 - Jan 2023_
 
 [PTE master project]
 
-  - Question query: reducing **Response times by 35%**
+  - Optimized PostgreSQL queries, **Response times by 35%**
   - Coud infrastructure: optimised config to reduce **cost by 25%**
 
 [Carina Eye Care]
